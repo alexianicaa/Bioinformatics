@@ -10,7 +10,7 @@ This repository contains 3 exercises related to DNA, RNA, and Protein sequence a
 ## Example Images
 
 ### Protein Sequence
-![Protein Example](photo1.jpg)
+![Protein Example](photo1.png)
 
 ### DNA Sequence
 ![DNA Example](photo2.png)
