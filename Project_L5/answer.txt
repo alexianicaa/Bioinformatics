@@ -1,0 +1,3 @@
+The main problem with this algorithm is the presence of gaps in coverage. When we take random samples from the DNA sequence, there’s no guarantee that every part of the original sequence will be included in at least one sample. Some parts of the sequence might never be picked, so we can’t rebuild those missing parts.
+
+Even if we take 2000 samples, random selection can still leave uncovered areas, especially near the ends or just by chance in the middle of the sequence. Because of that, the algorithm can only reconstruct the parts that were actually sampled, while the uncovered regions remain missing.
